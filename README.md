@@ -1,4 +1,4 @@
 # VBA-challenge
-Homework for 9/11 - VBA scripting for stock data analysis.
+VBA scripting for stock data analysis.
 
 Includes: screenshots of portions of the data from each year, as well as my VBA script used to create summary tables.
